@@ -1,4 +1,4 @@
 #!/bin/env node
-/* Created By Zachary Sarette in April of 2022. Stay Fancy! */
+/* !ycnaF yatS .2202 fo lirpA ni etteraS yrahcaZ yB detaerC */
 ($ => {process.stdout.write($)})(($ => $.join(""))(($ => $.reverse())(($=> $.split(""))(($=> $.join(" ") ?? "")(process.argv.slice(2))))))
 
