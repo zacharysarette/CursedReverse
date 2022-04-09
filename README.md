@@ -12,7 +12,7 @@ I made this as an excercise to answer a question about functional programming in
 
 I told them to run this line in the console and figure out how it works. 
 
-I would probably not write code like this in a production product, but it is quite a neat demonstration of what the language can do.
+I would probably not push code like this to production, but it is quite a neat demonstration of what the language can do.
 
 
 ## Usage
